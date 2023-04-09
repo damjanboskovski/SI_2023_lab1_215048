@@ -1,0 +1,36 @@
+commit c417dfe127cc82d3cc9be35182ba80fab7116dc7
+Author: Damjan Boshkovski <damjanboskovski2002@gmail.com>
+Date:   Sun Apr 9 15:27:33 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit cbd32db8b009fbf8df2068f7ed398cf2cb11a0e9
+Merge: 8aa8200 def6063
+Author: Damjan Boshkovski <damjanboskovski2002@gmail.com>
+Date:   Sun Apr 9 15:30:19 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit def606373971a3f194134c3e28fbf42137162cdb
+Author: Damjan Boshkovski <damjanboskovski2002@gmail.com>
+Date:   Sun Apr 9 15:27:00 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 8aa820084c21785ffc40e13561110ec10c1f33f2
+Author: Damjan Boshkovski <damjanboskovski2002@gmail.com>
+Date:   Sun Apr 9 15:26:25 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 6af59c3a66950cefc5e873e8fcdd91db38745dc3
+Author: Damjan Boshkovski <damjanboskovski2002@gmail.com>
+Date:   Sun Apr 9 15:25:12 2023 +0200
+
+    Add java class
+
+commit f464e87c36a4855c93a7353232db71220a06b716
+Author: Damjan Boshkovski <damjanboskovski2002@gmail.com>
+Date:   Sun Apr 9 15:23:57 2023 +0200
+
+    Initial commit
