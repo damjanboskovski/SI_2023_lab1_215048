@@ -32,4 +32,7 @@
 26. git push --all origin
     git push --force origin bug3
 27. git logs
-28. git push -all origin
+28. git add 215048.txt
+    git add logs.txt
+    git commit -m "Final commit"
+    git push --all origin
